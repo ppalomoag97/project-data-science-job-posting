@@ -1,0 +1,632 @@
+Headquarters,Size,Type of ownership,Sector,Revenue,avg_salary,same_state,company_age,python,excel,hadoop,spark,aws,big_data,job_simp,State,bi_tools,sql,git
+United States,1001 to 5000 employees,Nonprofit Organization,Insurance,Unknown / Non-Applicable,154,1,27,0,0,0,0,1,0,data scientist,NY,0,0,0
+United States,5001 to 10000 employees,Company - Public,Business Services,$1 to $2 billion (USD),154,0,52,0,0,1,0,0,1,data scientist,VA,0,1,0
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),154,1,39,1,1,0,0,1,0,data scientist,MA,0,0,0
+Switzerland,501 to 1000 employees,Company - Public,Manufacturing,$100 to $500 million (USD),154,0,20,1,1,0,0,1,0,data scientist,MA,0,1,1
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,154,1,22,1,1,0,0,0,0,data scientist,NY,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,154,1,10,1,1,1,1,0,0,data scientist,CA,0,1,0
+Switzerland,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),154,0,24,1,0,0,0,0,0,data scientist,MA,0,0,1
+United States,1001 to 5000 employees,Company - Public,Retail,$1 to $2 billion (USD),154,1,30,1,0,0,0,0,0,data scientist,MA,0,1,0
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),154,0,37,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,154,1,6,1,0,0,0,0,0,data scientist,IL,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),154,0,8,1,1,0,0,1,0,data scientist,VA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,154,1,4,1,0,0,1,0,0,data scientist,OTHER,0,1,0
+United States,1001 to 5000 employees,Government,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),154,1,55,0,1,0,0,0,0,data scientist,WA,0,0,0
+United States,201 to 500 employees,Company - Private,Manufacturing,$1 to $2 billion (USD),154,1,47,1,1,0,0,0,0,data engineer,IL,1,1,0
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),154,0,34,1,1,0,0,1,0,data scientist,DC,0,0,1
+United States,1 to 50 employees,Company - Private,Government,Unknown / Non-Applicable,154,0,23,1,1,1,1,0,0,data scientist,DC,1,1,0
+United States,1001 to 5000 employees,Company - Private,Manufacturing,$500 million to $1 billion (USD),154,1,75,1,0,1,0,0,0,data scientist,OTHER,0,1,1
+United States,5001 to 10000 employees,Company - Public,Information Technology,$5 to $10 billion (USD),154,0,32,0,1,0,0,0,0,analyst,TX,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,154,0,5,0,0,0,0,0,0,data scientist,NY,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$100 to $500 million (USD),154,1,9,1,0,1,1,0,1,data scientist,NY,0,0,1
+United States,5001 to 10000 employees,Company - Private,Insurance,$5 to $10 billion (USD),154,0,160,0,0,0,0,0,0,analyst,OTHER,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),154,1,28,0,0,0,0,0,0,data scientist,IL,0,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,$25 to $50 million (USD),154,1,17,1,1,0,0,0,0,data scientist,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Finance,$100 to $500 million (USD),154,1,24,1,1,1,1,1,1,data scientist,OTHER,1,0,0
+United States,1001 to 5000 employees,Nonprofit Organization,Aerospace & Defense,Unknown / Non-Applicable,154,1,69,1,0,1,1,0,1,data scientist,MA,0,1,0
+United States,51 to 200 employees,Company - Private,Government,$25 to $50 million (USD),154,0,15,1,0,0,0,0,0,data scientist,VA,1,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,154,1,5,0,1,0,1,0,1,data scientist,CA,0,0,1
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),103,1,39,1,1,0,0,1,0,data scientist,MA,0,0,0
+Switzerland,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),103,0,24,1,0,0,0,0,0,data scientist,MA,0,0,1
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,103,1,1,1,1,0,0,0,0,data scientist,MA,0,1,0
+United States,1001 to 5000 employees,Company - Private,Insurance,$1 to $2 billion (USD),103,1,95,0,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,$50 to $100 million (USD),103,0,12,0,1,0,0,1,1,data engineer,OTHER,0,1,0
+United States,1001 to 5000 employees,Company - Private,"Oil, Gas, Energy & Utilities",$2 to $5 billion (USD),103,0,21,0,1,1,1,0,0,data scientist,WA,0,1,1
+United States,1001 to 5000 employees,Company - Private,Information Technology,$50 to $100 million (USD),103,1,42,1,1,0,0,0,0,analyst,OTHER,1,1,0
+United States,501 to 1000 employees,Company - Private,Health Care,Unknown / Non-Applicable,103,0,20,1,1,0,0,1,0,data scientist,OTHER,0,1,1
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),103,1,20,1,1,1,1,1,0,data scientist,VA,0,1,1
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),103,1,54,1,1,0,0,1,0,data scientist,CA,1,1,0
+United States,501 to 1000 employees,Company - Private,Finance,$100 to $500 million (USD),103,1,47,1,1,0,0,0,0,analyst,MA,0,1,0
+United States,10000+ employees,Company - Private,Insurance,$10+ billion (USD),103,0,108,1,1,0,1,1,1,mle,OTHER,0,0,1
+United States,1001 to 5000 employees,Company - Private,Unknown,$100 to $500 million (USD),103,1,62,0,0,0,0,0,0,analyst,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),103,1,7,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),103,0,171,1,1,0,0,1,0,mle,MA,0,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,103,1,8,0,0,0,0,0,0,data scientist,MA,0,0,0
+United States,501 to 1000 employees,Company - Private,Finance,Unknown / Non-Applicable,103,1,20,1,1,0,0,0,0,data scientist,WA,0,0,0
+Singapore,1001 to 5000 employees,Government,Government,Unknown / Non-Applicable,103,0,4,1,1,0,0,0,0,data scientist,CA,1,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,103,1,21,1,1,0,0,0,0,data scientist,MA,1,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$10 to $25 million (USD),103,1,6,1,1,0,0,0,0,analyst,CA,1,1,0
+Japan,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),103,0,239,1,0,0,1,0,0,data scientist,MA,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,103,0,8,1,1,0,1,0,1,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,103,1,21,0,1,0,0,0,0,analyst,OTHER,0,1,1
+United States,5001 to 10000 employees,Nonprofit Organization,Health Care,$100 to $500 million (USD),103,1,94,0,1,0,0,1,0,analyst,OH,1,0,0
+United States,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,$1 to $5 million (USD),103,1,8,1,1,0,0,0,1,data scientist,OTHER,0,0,0
+United States,1001 to 5000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),103,1,14,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,1001 to 5000 employees,Company - Private,Transportation & Logistics,Unknown / Non-Applicable,103,1,9,1,0,0,1,0,0,data scientist,CA,0,1,0
+United States,201 to 500 employees,Company - Private,Business Services,$25 to $50 million (USD),103,1,26,1,1,0,0,0,0,data scientist,OTHER,0,0,0
+Switzerland,10000+ employees,Company - Public,Insurance,$10+ billion (USD),103,0,157,1,1,0,0,0,0,analyst,OTHER,0,1,0
+United States,201 to 500 employees,Company - Private,Aerospace & Defense,$100 to $500 million (USD),103,1,10,1,1,0,0,0,0,mle,MA,0,0,0
+United States,1001 to 5000 employees,Company - Public,Retail,$1 to $2 billion (USD),105,1,30,1,0,0,0,0,0,data scientist,MA,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,105,1,10,1,1,1,1,0,0,data scientist,CA,0,1,0
+United States,201 to 500 employees,Subsidiary or Business Segment,Manufacturing,$100 to $500 million (USD),105,1,34,0,1,0,0,0,0,analyst,CA,1,1,0
+United States,1001 to 5000 employees,Company - Private,Finance,$100 to $500 million (USD),105,1,25,1,0,0,0,0,0,data engineer,OTHER,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,105,1,8,1,0,0,0,0,0,data scientist,NY,1,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,$50 to $100 million (USD),105,0,14,1,1,0,0,0,1,data scientist,CA,1,1,1
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,105,1,5,1,0,0,0,1,0,mle,IL,0,1,1
+United States,1 to 50 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,105,1,1,1,1,0,1,0,0,data scientist,CA,0,0,1
+United States,51 to 200 employees,Company - Public,Business Services,$25 to $50 million (USD),105,1,14,1,1,1,1,1,0,data engineer,OTHER,0,1,1
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,105,0,5,1,0,0,0,1,0,data scientist,CA,0,1,1
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),105,0,38,1,1,1,1,1,1,data scientist,CA,0,0,0
+United States,10000+ employees,Company - Public,Manufacturing,$10+ billion (USD),105,0,95,0,1,0,0,0,0,analyst,IL,1,1,0
+United States,1001 to 5000 employees,Subsidiary or Business Segment,Insurance,$100 to $500 million (USD),105,1,19,1,1,0,0,0,0,analyst,OTHER,1,1,0
+United States,1001 to 5000 employees,Nonprofit Organization,Insurance,Unknown / Non-Applicable,105,1,27,1,1,0,0,0,1,data engineer,NY,0,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,105,0,1,1,0,0,1,1,0,data scientist,DC,0,0,1
+United States,201 to 500 employees,Company - Private,Insurance,Unknown / Non-Applicable,105,0,35,1,0,0,0,0,0,data scientist,NY,0,1,0
+United States,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),105,1,17,1,0,0,0,1,0,data scientist,CA,0,0,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),105,0,107,1,0,1,0,0,0,data scientist,MD,0,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,$25 to $50 million (USD),105,0,19,0,0,0,0,0,0,data scientist,DC,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),105,0,24,0,0,1,1,1,1,data engineer,OTHER,0,1,0
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,105,0,4,1,0,1,1,1,0,data scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$25 to $50 million (USD),105,1,21,1,0,0,1,1,0,data scientist,TX,0,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,105,1,10,1,0,0,0,0,0,manager,CA,0,1,0
+United States,501 to 1000 employees,Nonprofit Organization,Health Care,Unknown / Non-Applicable,105,1,49,0,0,0,0,0,0,analyst,WA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),105,1,17,1,0,0,0,1,1,data scientist,CA,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,105,1,8,1,0,0,0,0,0,mle,MA,0,0,0
+United States,10000+ employees,Company - Private,Manufacturing,$10+ billion (USD),105,0,109,1,0,0,1,1,0,data scientist,OTHER,0,0,1
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),105,0,107,1,1,0,0,0,0,data scientist,MD,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,$5 to $10 million (USD),105,0,21,1,0,1,1,1,0,mle,VA,1,1,0
+United States,5001 to 10000 employees,Company - Public,Business Services,$1 to $2 billion (USD),105,0,52,1,0,1,1,0,1,data scientist,VA,1,1,0
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),115,0,34,1,1,0,0,1,0,data scientist,DC,0,0,1
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),115,0,37,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),115,1,5,1,0,0,1,0,0,analyst,VA,0,1,0
+United States,10000+ employees,Company - Private,Manufacturing,$10+ billion (USD),115,0,109,1,0,0,1,0,0,data scientist,NY,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),115,1,11,0,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,1001 to 5000 employees,Others,Finance,$10+ billion (USD),115,1,61,0,1,0,0,0,0,data scientist,DC,1,0,1
+United States,1 to 50 employees,Company - Private,Aerospace & Defense,Unknown / Non-Applicable,115,1,13,1,1,1,1,1,0,mle,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,115,0,8,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),115,0,38,1,0,1,1,0,1,data scientist,CA,0,1,0
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),115,0,37,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,501 to 1000 employees,Company - Private,Aerospace & Defense,$50 to $100 million (USD),115,0,47,1,1,0,0,0,0,data scientist,OTHER,1,1,0
+United States,501 to 1000 employees,Company - Public,Health Care,Unknown / Non-Applicable,115,0,39,0,0,1,0,0,1,data engineer,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,$10 to $25 million (USD),115,1,9,1,0,0,0,1,0,data engineer,OTHER,0,1,0
+United States,10000+ employees,Company - Public,Information Technology,Unknown / Non-Applicable,115,0,81,1,1,1,0,1,1,data scientist,CA,0,0,0
+United States,10000+ employees,Company - Public,Information Technology,$5 to $10 million (USD),115,0,7,1,0,0,0,0,0,data scientist,VA,0,0,0
+United States,1001 to 5000 employees,Company - Public,Finance,$2 to $5 billion (USD),115,0,53,0,1,0,1,0,0,analyst,OTHER,0,0,1
+United States,51 to 200 employees,Subsidiary or Business Segment,Media,Unknown / Non-Applicable,115,0,7,0,1,0,0,0,0,analyst,MD,1,1,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),115,0,1,1,0,0,0,0,1,data scientist,VA,0,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,115,1,4,1,0,0,0,0,0,data engineer,CA,0,0,0
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$100 to $500 million (USD),115,1,24,1,0,1,1,1,0,data scientist,VA,1,1,0
+United States,1 to 50 employees,Company - Private,Health Care,Unknown / Non-Applicable,115,1,4,1,1,0,0,0,0,data scientist,NY,0,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,$5 to $10 million (USD),115,1,18,1,1,1,1,0,1,data engineer,MD,0,0,0
+United States,1001 to 5000 employees,Company - Public,Finance,$2 to $5 billion (USD),115,0,53,1,1,0,0,0,0,analyst,OTHER,0,1,1
+United States,201 to 500 employees,Company - Private,Health Care,$50 to $100 million (USD),115,1,20,1,0,0,0,0,0,data engineer,MD,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,115,0,14,1,1,0,0,0,0,data scientist,OH,1,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,115,1,5,1,0,0,1,0,0,data engineer,CA,0,0,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),115,0,8,1,1,0,0,1,0,data scientist,VA,0,0,0
+United States,51 to 200 employees,Company - Public,Business Services,$25 to $50 million (USD),115,1,14,1,1,1,1,1,0,data engineer,OTHER,0,1,1
+United States,51 to 200 employees,Company - Private,Transportation & Logistics,Unknown / Non-Applicable,115,1,14,1,1,0,0,0,0,analyst,IL,1,1,0
+United States,5001 to 10000 employees,Company - Public,Telecommunications,$2 to $5 billion (USD),115,0,24,1,1,0,1,1,0,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,99,1,4,1,0,0,1,0,0,data scientist,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,99,1,6,1,0,0,0,0,0,data scientist,IL,0,1,0
+United States,51 to 200 employees,Company - Public,Business Services,$25 to $50 million (USD),99,1,14,1,1,1,1,1,0,data engineer,OTHER,0,1,1
+United States,5001 to 10000 employees,Company - Public,Telecommunications,$2 to $5 billion (USD),99,0,24,1,1,0,1,1,0,data scientist,CA,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,99,1,4,0,0,0,0,0,0,data scientist,CA,0,1,0
+United States,201 to 500 employees,Company - Private,Finance,$50 to $100 million (USD),99,1,9,1,0,1,1,1,1,data engineer,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),99,0,17,1,1,0,0,0,0,data engineer,CA,1,1,1
+United States,1001 to 5000 employees,Company - Private,Information Technology,$100 to $500 million (USD),99,1,8,1,0,0,1,0,0,data scientist,OTHER,1,1,0
+United States,201 to 500 employees,Company - Private,Finance,$50 to $100 million (USD),99,1,9,1,0,1,1,1,1,data engineer,OTHER,0,1,0
+United States,201 to 500 employees,Company - Private,Finance,Unknown / Non-Applicable,99,1,8,1,0,0,0,0,0,data scientist,CA,0,0,1
+United States,201 to 500 employees,Company - Private,Business Services,$25 to $50 million (USD),99,0,26,1,0,1,1,0,1,analyst,CA,1,0,1
+United States,201 to 500 employees,Company - Private,Media,Unknown / Non-Applicable,99,1,8,0,1,1,1,0,1,data engineer,CA,0,0,0
+United States,501 to 1000 employees,Nonprofit Organization,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,99,1,23,0,1,0,0,0,0,data engineer,MA,0,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,99,1,19,0,1,0,1,0,0,data engineer,IL,1,1,0
+United States,51 to 200 employees,Company - Private,Manufacturing,$5 to $10 million (USD),99,1,7,1,0,1,1,1,1,data scientist,CA,1,1,0
+United States,5001 to 10000 employees,Nonprofit Organization,Government,$1 to $2 billion (USD),99,0,62,1,0,0,0,0,0,data scientist,VA,0,0,0
+United States,1 to 50 employees,Company - Private,Aerospace & Defense,$10 to $25 million (USD),99,0,7,1,1,0,0,0,0,mle,VA,0,0,1
+United States,1001 to 5000 employees,Company - Private,Insurance,$10 to $25 million (USD),99,0,38,0,1,0,0,0,0,data scientist,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,$10 to $25 million (USD),99,1,20,0,0,0,0,1,1,data scientist,MA,0,1,0
+United States,201 to 500 employees,Company - Private,Business Services,Unknown / Non-Applicable,99,0,53,0,1,0,0,0,0,manager,OTHER,1,1,0
+United States,10000+ employees,Subsidiary or Business Segment,Telecommunications,$10+ billion (USD),99,0,4,1,1,1,0,0,1,data scientist,OTHER,0,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,99,1,18,1,1,1,1,1,0,data engineer,CA,0,1,0
+France,10000+ employees,Company - Private,Biotech & Pharmaceuticals,$2 to $5 billion (USD),99,0,57,1,1,0,0,0,0,data scientist,OTHER,0,0,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),133,0,8,1,1,0,0,1,0,data scientist,VA,0,0,0
+United States,1 to 50 employees,Company - Private,Government,Unknown / Non-Applicable,133,0,23,1,1,1,1,0,0,data scientist,DC,1,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,133,0,1,1,0,0,0,0,0,mle,VA,0,0,0
+United States,10000+ employees,Company - Public,Aerospace & Defense,$10+ billion (USD),133,0,51,0,0,0,0,1,1,data scientist,MD,0,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,$100 to $500 million (USD),133,1,14,1,0,0,1,1,1,data scientist,CA,0,1,0
+United States,1001 to 5000 employees,Company - Private,Insurance,$1 to $2 billion (USD),133,1,74,1,1,0,0,1,0,analyst,OTHER,1,1,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),133,0,1,0,0,0,0,0,0,data scientist,VA,0,0,0
+United States,501 to 1000 employees,Nonprofit Organization,Telecommunications,$25 to $50 million (USD),133,1,23,1,1,0,0,0,0,analyst,DC,0,1,0
+United States,10000+ employees,Subsidiary or Business Segment,Information Technology,$10+ billion (USD),133,0,24,0,0,0,0,0,0,computer scientist,OTHER,0,0,0
+United States,201 to 500 employees,Company - Private,Real Estate,Unknown / Non-Applicable,133,1,5,1,1,0,0,0,0,data scientist,OTHER,1,1,0
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),133,0,38,1,0,1,1,0,1,analyst,CA,0,1,1
+United States,5001 to 10000 employees,Company - Public,Business Services,$1 to $2 billion (USD),133,0,52,1,0,1,1,0,1,analyst,CA,1,1,0
+Canada,10000+ employees,Company - Public,Unknown,$10+ billion (USD),133,0,63,1,0,1,1,1,1,data engineer,OTHER,0,1,0
+United States,1001 to 5000 employees,Others,Biotech & Pharmaceuticals,$100 to $500 million (USD),133,1,17,0,1,0,0,0,0,analyst,OTHER,1,1,0
+United States,5001 to 10000 employees,Company - Public,Business Services,$5 to $10 billion (USD),133,0,74,0,1,0,0,0,0,data scientist,IL,0,0,0
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,133,0,5,1,0,0,0,1,0,mle,CA,0,1,1
+United States,201 to 500 employees,Company - Private,Information Technology,$100 to $500 million (USD),133,1,11,1,1,0,0,0,0,data scientist,CA,0,0,1
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,133,1,6,1,0,1,0,0,0,data scientist,NY,0,0,1
+United States,1001 to 5000 employees,Subsidiary or Business Segment,Finance,$1 to $2 billion (USD),133,1,67,1,1,0,0,0,0,analyst,CA,0,1,1
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,133,1,5,1,0,0,0,1,0,mle,IL,0,1,1
+United States,201 to 500 employees,Company - Private,Finance,$50 to $100 million (USD),133,0,22,1,1,0,0,1,0,data engineer,OH,0,1,0
+United States,1001 to 5000 employees,Government,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),76,1,55,0,1,0,0,0,0,data scientist,WA,0,0,0
+United States,1001 to 5000 employees,Company - Private,Manufacturing,$500 million to $1 billion (USD),76,1,75,1,0,1,0,0,0,data scientist,OTHER,0,1,1
+United States,501 to 1000 employees,Nonprofit Organization,Government,$50 to $100 million (USD),76,0,53,1,0,0,0,0,0,mle,OTHER,0,0,0
+United States,201 to 500 employees,Company - Private,Business Services,$25 to $50 million (USD),76,1,23,0,1,0,0,0,0,analyst,OTHER,0,0,1
+Bermuda,1001 to 5000 employees,Company - Public,Insurance,$1 to $2 billion (USD),76,0,72,1,0,1,1,1,0,data scientist,NY,0,1,1
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$500 million to $1 billion (USD),76,0,170,1,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Public,Information Technology,Unknown / Non-Applicable,76,1,12,1,0,0,0,0,0,analyst,CA,1,1,0
+United States,5001 to 10000 employees,Company - Private,Insurance,$10+ billion (USD),76,0,169,1,0,1,1,1,0,data scientist,MA,0,1,0
+United States,10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,$10+ billion (USD),76,1,44,1,1,0,0,1,0,data scientist,CA,0,0,1
+United States,201 to 500 employees,Company - Private,Information Technology,$50 to $100 million (USD),76,1,10,1,0,0,0,0,0,computer scientist,VA,0,1,0
+United States,Unknown,Subsidiary or Business Segment,Business Services,Unknown / Non-Applicable,76,1,25,1,1,1,1,1,1,data scientist,MA,0,0,0
+United States,501 to 1000 employees,Subsidiary or Business Segment,Information Technology,Unknown / Non-Applicable,76,0,21,1,0,0,0,0,0,mle,CA,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,76,0,9,1,0,0,0,1,1,data engineer,CA,0,0,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),76,0,107,1,1,0,0,0,0,data scientist,MD,0,0,1
+United States,Unknown,Company - Public,Unknown,Unknown / Non-Applicable,76,0,1,1,0,0,0,0,0,data scientist,CA,0,1,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),76,0,107,1,0,0,0,0,0,data scientist,NY,0,0,1
+United States,51 to 200 employees,Company - Private,Unknown,Unknown / Non-Applicable,76,0,1,1,1,0,1,1,1,data scientist,CA,0,1,0
+United States,5001 to 10000 employees,Nonprofit Organization,Health Care,$100 to $500 million (USD),76,1,102,0,0,0,0,0,0,analyst,TX,0,0,0
+United States,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),76,0,7,0,0,0,0,0,0,director,OTHER,0,0,0
+United States,501 to 1000 employees,Company - Private,Finance,$100 to $500 million (USD),76,1,28,0,1,0,0,0,0,analyst,OTHER,1,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),92,1,28,0,0,0,0,0,0,data scientist,IL,0,1,1
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),92,1,12,1,1,0,0,0,0,data scientist,VA,0,0,0
+United States,501 to 1000 employees,Company - Public,Aerospace & Defense,$100 to $500 million (USD),92,0,66,1,0,0,0,0,0,mle,VA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$50 to $100 million (USD),92,1,12,1,1,1,0,0,1,data engineer,CA,0,1,0
+Switzerland,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),92,0,24,0,0,0,0,0,0,data scientist,MA,0,0,1
+United States,1001 to 5000 employees,Company - Private,Business Services,$1 to $2 billion (USD),92,0,19,1,1,0,0,1,1,data engineer,MD,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),92,0,8,0,1,0,0,0,0,data scientist,VA,0,0,0
+United States,1001 to 5000 employees,Company - Public,Manufacturing,$100 to $500 million (USD),92,1,21,0,0,0,0,0,0,analyst,OTHER,0,1,0
+United States,201 to 500 employees,Company - Public,"Oil, Gas, Energy & Utilities",$50 to $100 million (USD),92,0,24,0,1,0,0,0,0,analyst,OTHER,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),92,0,9,1,0,0,1,0,1,data scientist,MD,0,0,1
+United States,201 to 500 employees,Subsidiary or Business Segment,Business Services,$100 to $500 million (USD),92,0,30,1,1,0,0,1,0,data scientist,MA,0,1,1
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),92,0,1,1,1,0,0,0,1,data scientist,VA,0,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),92,0,9,1,0,0,1,0,1,data scientist,MD,0,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,92,1,8,1,0,0,0,0,0,data engineer,MA,0,0,0
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$500 million to $1 billion (USD),92,0,73,1,1,0,0,0,0,computer scientist,OTHER,0,0,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),92,0,107,1,0,1,1,1,0,data scientist,MD,0,1,1
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),92,0,10,1,0,0,0,0,0,analyst,VA,0,0,0
+United States,501 to 1000 employees,Nonprofit Organization,Health Care,$500 million to $1 billion (USD),92,1,24,0,0,0,0,0,0,manager,CA,1,1,0
+United States,5001 to 10000 employees,Company - Private,Insurance,$10+ billion (USD),92,0,169,0,1,1,1,0,1,data engineer,MA,0,1,0
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,92,0,5,1,0,0,0,1,0,mle,CA,0,1,1
+United States,1001 to 5000 employees,Company - Private,Finance,Unknown / Non-Applicable,92,1,65,0,0,0,0,0,0,analyst,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,$100 to $500 million (USD),97,1,9,1,0,1,1,0,1,data scientist,NY,0,0,1
+United States,51 to 200 employees,Company - Private,Finance,$100 to $500 million (USD),97,1,24,1,1,1,1,1,1,data scientist,OTHER,1,0,0
+United States,201 to 500 employees,Company - Private,Finance,$50 to $100 million (USD),97,0,22,1,1,0,0,1,0,data engineer,OH,0,1,0
+United States,501 to 1000 employees,Company - Private,Real Estate,$2 to $5 billion (USD),97,1,6,1,0,0,0,1,0,data scientist,CA,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,$5 to $10 million (USD),97,0,12,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+India,1001 to 5000 employees,Company - Private,Information Technology,$100 to $500 million (USD),97,0,21,1,1,1,1,0,1,data scientist,IL,0,1,0
+Israel,51 to 200 employees,Company - Private,Manufacturing,Unknown / Non-Applicable,97,0,2,1,0,0,0,0,1,data scientist,OTHER,0,0,0
+United States,501 to 1000 employees,Nonprofit Organization,Government,$50 to $100 million (USD),97,0,53,1,0,0,0,0,0,mle,OH,0,0,0
+United States,5001 to 10000 employees,Company - Public,Finance,$2 to $5 billion (USD),97,1,83,1,1,0,0,0,0,analyst,MD,1,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,$5 to $10 million (USD),97,0,1,0,1,0,0,1,1,data scientist,VA,0,0,1
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$500 million to $1 billion (USD),97,0,170,1,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,1001 to 5000 employees,Company - Public,Insurance,Unknown / Non-Applicable,97,1,3,0,0,0,0,0,0,analyst,OTHER,0,0,0
+Bermuda,1001 to 5000 employees,Company - Public,Insurance,$1 to $2 billion (USD),97,0,72,1,0,1,1,1,0,data scientist,NY,0,1,1
+United States,10000+ employees,Company - Public,Telecommunications,$1 to $2 billion (USD),97,0,49,0,1,0,0,0,0,data scientist,IL,0,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Less than $1 million (USD),97,0,1,1,0,1,0,0,0,data scientist,CA,1,1,0
+United States,51 to 200 employees,Company - Public,Information Technology,Unknown / Non-Applicable,97,1,12,1,0,0,0,0,0,analyst,CA,1,1,0
+India,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,97,0,1,1,0,0,0,0,0,data scientist,TX,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$25 to $50 million (USD),107,1,17,1,1,0,0,0,0,data scientist,OTHER,0,1,0
+United States,1001 to 5000 employees,Company - Private,Insurance,$1 to $2 billion (USD),107,1,95,0,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,$50 to $100 million (USD),107,1,20,1,1,0,0,1,0,data engineer,NY,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$10 to $25 million (USD),107,0,14,0,0,0,0,0,1,data scientist,CA,0,0,0
+France,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),107,0,47,1,0,0,0,0,1,data scientist,MA,1,1,1
+United States,10000+ employees,Company - Public,Transportation & Logistics,$10+ billion (USD),107,0,9,1,0,0,0,0,1,data scientist,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Insurance,$10 to $25 million (USD),107,0,20,1,0,0,1,0,0,data scientist,CA,0,1,0
+United States,1 to 50 employees,Company - Private,Unknown,Less than $1 million (USD),107,0,1,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,201 to 500 employees,Company - Private,Aerospace & Defense,$50 to $100 million (USD),107,0,37,1,0,0,0,0,0,computer scientist,OTHER,0,0,1
+United States,5001 to 10000 employees,Company - Private,Insurance,$10+ billion (USD),107,0,169,1,0,1,1,1,0,data scientist,MA,0,1,0
+United States,1 to 50 employees,Company - Private,Unknown,Unknown / Non-Applicable,107,1,1,0,0,0,0,0,0,data scientist,OTHER,0,1,0
+United States,10000+ employees,Company - Public,Manufacturing,$10+ billion (USD),107,1,103,1,1,0,0,0,0,data scientist,OH,0,1,0
+United States,1001 to 5000 employees,Company - Private,Business Services,Unknown / Non-Applicable,107,0,85,1,1,0,0,0,0,data scientist,NY,0,0,0
+United States,201 to 500 employees,Company - Private,Media,$50 to $100 million (USD),107,1,13,1,1,0,0,0,0,data scientist,NY,0,0,1
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,107,0,11,1,0,0,0,1,0,data scientist,CA,0,1,0
+United States,10000+ employees,Nonprofit Organization,Business Services,$5 to $10 billion (USD),107,0,91,0,1,0,0,0,0,data scientist,MA,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$50 to $100 million (USD),107,1,10,1,0,0,0,0,0,computer scientist,VA,0,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,107,0,1,1,1,0,0,0,0,data scientist,NY,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,107,0,22,1,0,0,1,0,1,data engineer,CA,1,1,0
+United States,501 to 1000 employees,Subsidiary or Business Segment,Information Technology,Unknown / Non-Applicable,107,0,21,1,0,0,0,0,0,mle,CA,0,1,0
+United States,Unknown,Subsidiary or Business Segment,Business Services,Unknown / Non-Applicable,107,1,25,1,1,1,1,1,1,data scientist,MA,0,0,0
+United States,1001 to 5000 employees,Nonprofit Organization,Aerospace & Defense,Unknown / Non-Applicable,120,1,69,1,0,1,1,0,1,data scientist,MA,0,1,0
+United States,1001 to 5000 employees,Company - Private,"Oil, Gas, Energy & Utilities",$2 to $5 billion (USD),120,0,21,0,1,1,1,0,0,data scientist,WA,0,1,1
+United States,1001 to 5000 employees,Government,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),120,1,55,0,0,0,0,0,0,data scientist,WA,0,0,0
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),120,1,39,1,1,0,0,1,0,director,MA,0,1,0
+United States,1001 to 5000 employees,Nonprofit Organization,Biotech & Pharmaceuticals,$100 to $500 million (USD),120,1,200,1,1,0,0,0,0,data scientist,MD,1,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$10 to $25 million (USD),120,1,10,1,0,1,1,0,1,data scientist,OTHER,0,0,0
+United States,10000+ employees,Company - Public,Information Technology,$10+ billion (USD),120,1,25,1,0,1,0,0,1,data scientist,CA,1,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,120,1,2,1,1,0,0,1,0,data engineer,NY,0,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,120,0,9,1,0,0,0,1,1,data engineer,CA,0,0,0
+United States,1001 to 5000 employees,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),120,1,39,1,1,0,0,0,0,manager,MA,1,1,0
+United States,10000+ employees,Company - Public,Unknown,$10+ billion (USD),120,0,57,1,0,0,0,1,0,data scientist,NY,1,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),120,0,9,1,0,0,1,0,1,data scientist,VA,0,1,1
+United States,Unknown,Company - Public,Unknown,Unknown / Non-Applicable,120,0,1,1,0,0,0,0,0,data scientist,CA,0,1,0
+United States,1001 to 5000 employees,Government,Government,$1 to $2 billion (USD),120,1,68,1,1,0,0,0,1,data scientist,CA,0,0,0
+United States,201 to 500 employees,Company - Private,Finance,$1 to $2 billion (USD),120,1,88,0,0,0,0,1,0,analyst,OTHER,1,0,0
+United States,10000+ employees,Company - Public,Business Services,$10+ billion (USD),120,0,73,1,0,1,1,1,0,data scientist,VA,1,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,120,1,8,0,0,0,0,0,0,data scientist,MA,0,0,0
+United States,10000+ employees,Company - Private,Business Services,$2 to $5 billion (USD),120,1,126,0,0,0,1,0,0,data scientist,IL,0,0,0
+Canada,1001 to 5000 employees,Company - Public,Real Estate,$100 to $500 million (USD),120,0,15,1,1,0,0,1,0,data scientist,CA,1,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),120,1,2,1,1,0,0,0,0,data scientist,CA,1,1,0
+United States,Unknown,Company - Private,Unknown,Unknown / Non-Applicable,120,0,1,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),183,1,54,1,1,0,0,1,0,data scientist,CA,1,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,183,1,1,1,1,0,0,0,0,data scientist,MA,0,1,0
+United States,Unknown,Company - Private,Unknown,Unknown / Non-Applicable,183,0,1,0,0,0,0,0,0,data scientist,CA,0,0,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),183,0,107,1,0,0,0,0,0,data scientist,NY,0,0,1
+United States,10000+ employees,Company - Public,Manufacturing,$5 to $10 billion (USD),183,1,103,1,1,1,1,0,1,data scientist,OTHER,0,1,1
+United States,51 to 200 employees,Company - Private,Unknown,Unknown / Non-Applicable,183,0,1,1,1,0,1,1,1,data scientist,CA,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),183,0,60,1,0,0,0,0,0,data scientist,CA,0,1,0
+United States,51 to 200 employees,Company - Private,Unknown,Unknown / Non-Applicable,183,0,1,1,1,0,0,0,0,data scientist,CA,1,1,0
+United States,201 to 500 employees,Company - Private,Business Services,$5 to $10 million (USD),183,0,14,1,0,0,0,0,0,data scientist,TX,0,0,0
+United States,10000+ employees,Company - Public,Aerospace & Defense,$10+ billion (USD),183,0,51,1,0,0,0,1,0,data scientist,VA,0,0,0
+United States,1001 to 5000 employees,Company - Public,Media,$1 to $2 billion (USD),183,0,27,1,1,0,1,1,0,data scientist,CA,1,1,1
+United States,501 to 1000 employees,Company - Private,Retail,$100 to $500 million (USD),183,1,1,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+Sweden,10000+ employees,Others,Health Care,Unknown / Non-Applicable,183,0,1,1,0,0,0,0,0,data scientist,CA,0,1,0
+United States,1 to 50 employees,Company - Private,Retail,Unknown / Non-Applicable,183,1,3,1,0,0,1,0,0,data scientist,NY,0,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,183,0,3,0,1,0,0,0,0,analyst,VA,1,1,0
+United States,1001 to 5000 employees,Company - Private,Travel & Tourism,Unknown / Non-Applicable,183,0,30,1,0,0,1,0,0,data scientist,NY,0,1,0
+Switzerland,10000+ employees,Company - Public,Manufacturing,$10+ billion (USD),183,0,13,0,0,0,0,0,0,data scientist,VA,0,0,0
+United States,10000+ employees,Government,Government,$10+ billion (USD),183,1,232,1,0,1,0,0,1,data scientist,VA,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$25 to $50 million (USD),183,0,20,1,0,0,0,1,1,data scientist,NY,0,1,1
+United States,501 to 1000 employees,Company - Private,Retail,$100 to $500 million (USD),183,0,28,1,1,1,1,0,0,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,185,0,5,0,0,0,0,0,0,data scientist,IL,0,0,0
+United States,51 to 200 employees,Company - Private,Government,$25 to $50 million (USD),185,0,15,1,0,0,0,0,0,data scientist,VA,1,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$10 to $25 million (USD),185,0,16,1,0,0,0,0,0,data scientist,MD,1,1,1
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),185,0,1,1,1,0,0,0,0,data scientist,OTHER,0,0,0
+United States,Unknown,Company - Public,Unknown,Unknown / Non-Applicable,185,0,1,1,1,0,0,0,0,data scientist,NY,0,0,1
+United States,5001 to 10000 employees,Company - Private,Aerospace & Defense,$500 million to $1 billion (USD),185,0,17,0,1,0,0,0,0,data scientist,VA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,185,0,5,1,0,1,1,0,1,data scientist,NY,0,1,0
+United States,5001 to 10000 employees,Nonprofit Organization,Health Care,$100 to $500 million (USD),185,1,102,0,0,0,0,0,0,analyst,TX,0,0,0
+United States,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),185,0,7,0,0,0,0,0,0,director,OTHER,0,0,0
+Canada,201 to 500 employees,Company - Public,Finance,$100 to $500 million (USD),185,0,28,1,1,0,0,0,0,data scientist,OTHER,1,0,0
+United States,201 to 500 employees,Company - Private,Insurance,Unknown / Non-Applicable,185,1,9,1,0,0,1,1,0,data scientist,CA,0,1,0
+France,1001 to 5000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),185,0,15,1,0,1,1,0,1,data scientist,OTHER,0,0,1
+United States,51 to 200 employees,Company - Private,Unknown,$1 to $5 million (USD),185,1,1,1,0,0,0,1,0,data scientist,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),185,0,20,1,1,0,0,0,0,data scientist,NY,1,0,1
+United States,501 to 1000 employees,Company - Private,Finance,$100 to $500 million (USD),185,1,28,0,1,0,0,0,0,analyst,OTHER,1,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),185,0,1,0,1,0,0,0,0,data scientist,NY,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$5 to $10 million (USD),185,0,1,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,1 to 50 employees,Company - Private,Unknown,Unknown / Non-Applicable,185,1,1,0,1,0,0,0,1,data scientist,OH,0,0,0
+Singapore,1001 to 5000 employees,Government,Government,Unknown / Non-Applicable,113,0,4,1,1,0,0,0,0,data scientist,CA,1,0,0
+United States,501 to 1000 employees,Company - Private,Finance,Unknown / Non-Applicable,113,1,20,1,1,0,0,0,0,data scientist,WA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$50 to $100 million (USD),113,1,12,1,1,1,0,0,1,data engineer,CA,0,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,$25 to $50 million (USD),113,0,23,0,0,0,0,0,1,data scientist,CA,0,1,1
+United Kingdom,201 to 500 employees,Company - Private,Business Services,$25 to $50 million (USD),113,0,25,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$5 to $10 million (USD),113,0,36,1,1,0,1,1,1,data scientist,MA,0,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,113,0,1,1,1,0,0,0,0,data scientist,VA,0,1,1
+United States,501 to 1000 employees,Company - Public,Aerospace & Defense,$100 to $500 million (USD),113,0,66,1,0,0,0,0,0,mle,VA,0,0,0
+United States,1001 to 5000 employees,Company - Private,Insurance,$5 to $10 billion (USD),113,1,87,1,1,0,1,1,1,analyst,OTHER,0,1,0
+United States,501 to 1000 employees,Company - Private,Finance,Unknown / Non-Applicable,113,1,20,0,0,0,0,0,0,mle,NY,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,$10 to $25 million (USD),113,0,17,1,1,0,0,0,0,data scientist,VA,0,1,1
+Switzerland,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),113,0,24,0,0,0,0,0,0,data scientist,MA,0,0,1
+United States,501 to 1000 employees,Company - Private,Unknown,Unknown / Non-Applicable,113,1,1,0,1,0,0,0,0,data scientist,IL,0,0,1
+United States,10000+ employees,Others,Agriculture & Forestry,$1 to $2 billion (USD),113,1,140,1,1,0,0,0,0,data scientist,OH,0,1,1
+United States,501 to 1000 employees,Company - Private,Aerospace & Defense,$100 to $500 million (USD),113,0,21,0,0,0,0,0,0,data scientist,VA,0,1,1
+United States,1 to 50 employees,Company - Private,Unknown,Less than $1 million (USD),113,0,1,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,501 to 1000 employees,Others,Education,Unknown / Non-Applicable,113,1,36,1,0,0,0,0,0,mle,OTHER,0,0,0
+United States,201 to 500 employees,Subsidiary or Business Segment,Manufacturing,$100 to $500 million (USD),113,1,34,1,0,0,0,0,0,analyst,CA,1,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,113,0,9,1,1,0,0,0,0,data scientist,NY,1,1,0
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,113,1,8,1,1,0,1,0,0,data scientist,NY,0,0,0
+United States,501 to 1000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,134,1,8,1,1,0,1,0,1,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),134,1,7,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,1001 to 5000 employees,Company - Public,Manufacturing,$100 to $500 million (USD),134,1,21,0,0,0,0,0,0,analyst,OTHER,0,1,0
+United States,1001 to 5000 employees,Company - Private,Insurance,$2 to $5 billion (USD),134,0,133,0,0,0,0,0,0,data scientist,OH,0,0,0
+United States,10000+ employees,Company - Public,Information Technology,$10+ billion (USD),134,1,50,1,0,1,1,1,0,data engineer,CA,0,0,1
+United States,1 to 50 employees,Company - Private,Unknown,$1 to $5 million (USD),134,0,1,1,0,1,1,0,1,data scientist,CA,0,1,0
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,134,1,6,0,0,0,0,0,0,data scientist,NY,0,0,0
+United States,201 to 500 employees,Subsidiary or Business Segment,Information Technology,$100 to $500 million (USD),134,0,18,0,0,0,0,1,1,data scientist,VA,0,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,134,0,1,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,134,1,10,1,0,0,1,1,0,data scientist,MA,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,134,1,18,1,0,1,1,1,0,data engineer,MD,0,1,1
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),134,0,9,1,0,0,1,0,1,data scientist,MD,0,0,1
+United States,51 to 200 employees,Company - Public,Business Services,$1 to $5 million (USD),134,0,8,1,1,0,0,0,0,analyst,VA,1,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,134,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,134,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,134,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,134,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,134,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,134,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),134,0,1,1,1,0,0,0,1,data scientist,VA,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,114,1,21,1,1,0,0,0,0,data scientist,MA,1,1,0
+Japan,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),114,0,239,1,0,0,1,0,0,data scientist,MA,0,1,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),114,0,1,1,0,1,1,0,0,data scientist,VA,1,1,1
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$500 million to $1 billion (USD),114,0,73,1,1,0,0,0,0,computer scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,114,0,12,1,0,0,0,0,0,data scientist,CA,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,114,1,8,1,0,0,0,0,0,data engineer,MA,0,0,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),114,0,107,1,0,1,1,1,0,data scientist,MD,0,1,1
+United States,51 to 200 employees,Company - Private,Unknown,Unknown / Non-Applicable,114,0,1,0,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,10000+ employees,Company - Public,Aerospace & Defense,Unknown / Non-Applicable,114,0,2,1,0,1,0,0,1,data scientist,MD,0,0,0
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,114,0,40,1,0,0,0,0,0,data scientist,DC,0,1,0
+United States,201 to 500 employees,Nonprofit Organization,Business Services,$100 to $500 million (USD),114,1,17,0,0,0,0,0,0,mle,WA,0,0,0
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),114,0,31,1,0,0,0,0,0,data scientist,TX,0,0,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),114,0,19,1,1,0,0,0,0,data scientist,CA,1,1,1
+United States,201 to 500 employees,Company - Private,Travel & Tourism,Unknown / Non-Applicable,114,1,9,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,$50 to $100 million (USD),114,0,21,1,1,0,0,0,0,data scientist,CA,0,1,1
+United States,5001 to 10000 employees,Subsidiary or Business Segment,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,114,0,112,1,1,0,0,0,1,data scientist,VA,0,1,0
+United States,501 to 1000 employees,Nonprofit Organization,Health Care,$500 million to $1 billion (USD),114,1,24,0,0,0,0,0,0,manager,CA,1,1,0
+United States,5001 to 10000 employees,Company - Private,Insurance,$10+ billion (USD),114,0,169,0,1,1,1,0,1,data engineer,MA,0,1,0
+United States,1 to 50 employees,Others,Information Technology,Unknown / Non-Applicable,114,0,17,1,0,0,0,0,0,data scientist,MA,0,1,0
+United States,10000+ employees,Company - Public,Insurance,$10+ billion (USD),114,1,167,1,0,0,1,1,1,data engineer,OTHER,1,1,1
+United States,1001 to 5000 employees,Subsidiary or Business Segment,Information Technology,Unknown / Non-Applicable,114,1,9,1,0,0,0,0,0,analyst,CA,1,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,136,1,8,0,0,0,0,0,0,data scientist,MA,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),136,1,11,0,1,0,0,0,0,data scientist,OTHER,0,0,0
+United States,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),136,1,42,0,1,0,0,0,0,data scientist,MA,0,0,1
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,136,0,1,1,1,0,1,0,0,data scientist,CA,1,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,136,0,1,1,1,0,1,0,0,data scientist,CA,1,1,0
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,136,0,5,1,0,0,0,1,0,mle,CA,0,1,1
+United States,5001 to 10000 employees,Company - Public,Information Technology,$1 to $2 billion (USD),136,0,39,1,1,0,0,0,0,data scientist,CA,0,0,1
+United States,1001 to 5000 employees,Company - Private,Biotech & Pharmaceuticals,$100 to $500 million (USD),136,0,1,0,1,0,0,0,0,data scientist,OTHER,1,0,0
+United States,51 to 200 employees,Company - Private,Government,$25 to $50 million (USD),136,1,15,1,0,0,0,0,0,data engineer,VA,0,1,0
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,136,1,5,0,0,0,0,1,0,computer scientist,IL,0,0,0
+United States,10000+ employees,Company - Private,Insurance,$10+ billion (USD),136,0,108,1,0,0,0,0,0,data engineer,OTHER,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),136,0,24,0,1,0,0,0,0,data scientist,DC,0,0,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),136,0,1,1,0,0,0,0,0,data scientist,VA,0,0,1
+United States,201 to 500 employees,Company - Private,Aerospace & Defense,$100 to $500 million (USD),136,1,10,0,0,0,0,0,0,computer scientist,MA,0,0,1
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),136,0,8,1,1,0,0,0,0,analyst,VA,0,1,0
+United States,10000+ employees,Others,Finance,Unknown / Non-Applicable,136,0,87,0,0,0,0,0,0,data engineer,VA,1,1,0
+United States,201 to 500 employees,Company - Private,Health Care,$500 million to $1 billion (USD),136,0,26,0,1,0,0,0,0,analyst,OTHER,1,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,136,0,4,0,0,0,1,1,0,mle,OTHER,0,0,1
+United States,1001 to 5000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),161,1,14,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,1001 to 5000 employees,Company - Private,Transportation & Logistics,Unknown / Non-Applicable,161,1,9,1,0,0,1,0,0,data scientist,CA,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),161,1,10,1,0,1,1,0,0,data scientist,MD,1,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,161,0,1,0,0,0,0,1,0,data scientist,CA,0,0,0
+United States,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,161,1,2,1,0,0,0,0,0,data scientist,MA,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,161,0,15,1,1,1,1,1,1,data scientist,CA,0,1,0
+United Kingdom,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,161,0,1,1,0,1,1,0,1,data scientist,CA,1,0,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),161,0,1,1,0,0,0,0,1,data scientist,CA,0,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),161,0,1,1,0,0,0,0,0,data scientist,DC,1,1,0
+United States,51 to 200 employees,Company - Private,Aerospace & Defense,$10 to $25 million (USD),161,0,6,1,0,0,0,0,1,data scientist,VA,0,1,0
+United States,201 to 500 employees,Subsidiary or Business Segment,Business Services,$100 to $500 million (USD),161,0,21,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+United States,10000+ employees,Company - Public,Business Services,$5 to $10 billion (USD),161,0,106,1,0,1,0,0,1,data scientist,CA,1,0,0
+United States,5001 to 10000 employees,Company - Private,Business Services,$1 to $2 billion (USD),161,1,122,1,1,0,0,0,0,data scientist,OTHER,0,1,0
+India,201 to 500 employees,Company - Private,Information Technology,$1 to $5 million (USD),161,0,10,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+United States,10000+ employees,Company - Public,Business Services,$2 to $5 billion (USD),161,0,72,1,0,1,1,0,0,data scientist,OTHER,0,1,0
+United States,501 to 1000 employees,Company - Private,Finance,$100 to $500 million (USD),161,1,28,0,1,0,0,0,0,analyst,OTHER,1,1,0
+United States,1 to 50 employees,Company - Private,Accounting & Legal,Less than $1 million (USD),161,0,1,1,1,1,1,1,0,data scientist,TX,0,1,0
+France,1001 to 5000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),161,0,15,1,0,1,1,0,1,data scientist,OTHER,0,0,1
+United States,Unknown,Company - Private,Unknown,Unknown / Non-Applicable,161,0,1,1,0,0,0,0,0,data scientist,NY,0,0,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),161,0,1,0,1,0,0,0,0,data scientist,NY,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),161,1,12,1,1,0,0,0,0,data scientist,VA,0,0,0
+United States,501 to 1000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,106,1,8,1,0,0,0,0,0,data scientist,NY,1,1,0
+United States,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,$1 to $5 million (USD),106,1,8,1,1,0,0,0,1,data scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$5 to $10 million (USD),106,0,1,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,Unknown,Company - Public,Unknown,Unknown / Non-Applicable,106,0,1,1,1,0,0,0,0,data scientist,VA,0,0,0
+United States,1 to 50 employees,Company - Private,Unknown,Unknown / Non-Applicable,106,1,1,0,1,0,0,0,1,data scientist,OH,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$50 to $100 million (USD),106,1,12,1,1,1,0,0,1,data engineer,CA,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,106,1,1,1,1,0,0,0,0,data scientist,MD,1,1,0
+United States,10000+ employees,Company - Public,Transportation & Logistics,$2 to $5 billion (USD),106,1,64,0,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,1 to 50 employees,Company - Private,Unknown,$1 to $5 million (USD),106,0,1,1,0,0,0,0,0,data scientist,VA,0,1,0
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,106,0,2,1,0,0,1,0,0,data scientist,VA,0,0,1
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,106,0,1,1,1,0,0,0,0,data scientist,VA,0,1,1
+United States,1 to 50 employees,Company - Private,Unknown,Unknown / Non-Applicable,106,0,1,0,1,0,0,0,0,data scientist,OTHER,0,0,0
+United States,201 to 500 employees,Company - Private,Agriculture & Forestry,Unknown / Non-Applicable,106,1,6,1,1,0,0,0,1,data scientist,CA,0,0,0
+United States,1 to 50 employees,Company - Private,Health Care,Less than $1 million (USD),106,1,1,1,0,0,0,1,0,data scientist,MA,0,0,1
+United States,1 to 50 employees,Company - Public,Unknown,Unknown / Non-Applicable,106,1,1,1,1,1,0,0,0,data scientist,VA,1,1,0
+United States,10000+ employees,Company - Public,Information Technology,Unknown / Non-Applicable,106,0,13,0,1,0,0,1,0,data scientist,IL,0,1,1
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),106,0,43,1,1,0,0,0,1,data scientist,VA,0,0,0
+United States,Unknown,Company - Private,Telecommunications,Unknown / Non-Applicable,106,0,1,1,0,1,1,0,0,data scientist,CA,0,1,0
+United States,501 to 1000 employees,Company - Private,Finance,Unknown / Non-Applicable,106,1,20,0,0,0,0,0,0,mle,NY,0,0,0
+United States,201 to 500 employees,Company - Private,Business Services,$25 to $50 million (USD),92,1,26,1,1,0,0,0,0,data scientist,OTHER,0,0,0
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),92,0,38,1,1,1,1,1,1,data scientist,CA,0,0,0
+United States,10000+ employees,Nonprofit Organization,Health Care,$5 to $10 billion (USD),92,1,1,1,0,0,0,0,0,data scientist,OTHER,1,0,0
+Switzerland,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),92,0,24,0,0,0,0,0,0,data scientist,MA,0,0,1
+United States,1001 to 5000 employees,Company - Private,Business Services,$100 to $500 million (USD),92,0,13,1,1,1,1,0,0,data scientist,OTHER,0,1,0
+United States,1001 to 5000 employees,Company - Public,Information Technology,Unknown / Non-Applicable,92,0,11,1,0,0,1,1,1,data scientist,OTHER,0,1,0
+United States,10000+ employees,Company - Public,Information Technology,$10+ billion (USD),92,0,109,1,1,0,0,1,0,data scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),92,0,13,1,0,1,0,1,0,data scientist,VA,1,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),92,0,11,1,1,0,0,0,0,data scientist,CA,0,1,0
+United States,10000+ employees,Others,Agriculture & Forestry,$1 to $2 billion (USD),92,1,140,1,1,0,0,0,0,data scientist,OH,0,1,1
+United States,501 to 1000 employees,Company - Private,Insurance,$50 to $100 million (USD),92,1,14,1,1,0,0,0,0,data scientist,OTHER,1,0,0
+United States,1 to 50 employees,Company - Private,Unknown,Less than $1 million (USD),92,0,1,1,0,0,0,0,0,data scientist,CA,0,0,0
+United States,501 to 1000 employees,Others,Education,Unknown / Non-Applicable,92,1,36,1,0,0,0,0,0,mle,OTHER,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,92,0,1,1,0,1,1,1,0,data scientist,VA,1,1,0
+United States,1001 to 5000 employees,Company - Public,Business Services,$100 to $500 million (USD),92,1,52,1,1,0,0,0,0,data scientist,NY,1,1,0
+United States,501 to 1000 employees,Company - Private,Business Services,Unknown / Non-Applicable,92,0,11,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$5 to $10 million (USD),92,0,1,1,0,1,1,1,1,data scientist,OTHER,0,1,0
+United States,201 to 500 employees,Subsidiary or Business Segment,Manufacturing,$100 to $500 million (USD),92,1,34,1,0,0,0,0,0,analyst,CA,1,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Less than $1 million (USD),92,0,1,1,0,0,0,0,0,data scientist,CA,0,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,92,0,9,1,1,0,0,0,0,data scientist,NY,1,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),92,0,31,1,1,0,0,0,0,data scientist,MD,1,1,0
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,43,1,5,1,0,0,0,1,0,mle,IL,0,1,1
+United States,1001 to 5000 employees,Company - Private,Information Technology,$50 to $100 million (USD),43,0,14,1,1,0,0,0,1,data scientist,CA,1,1,1
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,43,1,8,1,1,0,1,0,0,data scientist,NY,0,0,0
+United States,1001 to 5000 employees,Company - Public,Manufacturing,$100 to $500 million (USD),43,1,21,0,0,0,0,0,0,analyst,OTHER,0,1,0
+United States,501 to 1000 employees,Company - Private,Aerospace & Defense,$50 to $100 million (USD),43,0,16,1,1,0,0,0,0,data scientist,OTHER,1,1,0
+United States,10000+ employees,Company - Public,Information Technology,$10+ billion (USD),43,1,50,1,0,1,1,1,0,data engineer,CA,0,0,1
+United States,1 to 50 employees,Company - Private,Finance,Unknown / Non-Applicable,43,0,8,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+United States,1001 to 5000 employees,Company - Private,Insurance,$2 to $5 billion (USD),43,0,133,0,0,0,0,0,0,data scientist,OH,0,0,0
+United States,5001 to 10000 employees,Company - Public,Finance,$2 to $5 billion (USD),43,1,20,1,1,0,0,0,0,data scientist,OTHER,1,0,0
+United States,1 to 50 employees,Company - Private,Unknown,Less than $1 million (USD),43,0,1,1,1,1,1,0,0,data scientist,DC,0,1,0
+United States,51 to 200 employees,Nonprofit Organization,Non-Profit,$25 to $50 million (USD),43,1,33,1,1,0,0,1,0,data scientist,VA,0,1,0
+United States,201 to 500 employees,Company - Private,Unknown,$10 to $25 million (USD),43,1,1,1,1,1,0,0,0,data scientist,CA,0,0,0
+United States,201 to 500 employees,Company - Public,"Oil, Gas, Energy & Utilities",$50 to $100 million (USD),43,0,24,0,1,0,0,0,0,analyst,OTHER,0,0,0
+United States,201 to 500 employees,Subsidiary or Business Segment,Information Technology,$100 to $500 million (USD),43,0,18,0,0,0,0,1,1,data scientist,VA,0,1,0
+United States,1001 to 5000 employees,Company - Private,"Construction, Repair & Maintenance",$100 to $500 million (USD),43,0,22,1,1,0,0,0,0,data scientist,OTHER,1,1,0
+United States,1001 to 5000 employees,Subsidiary or Business Segment,Business Services,$2 to $5 billion (USD),43,0,25,0,0,0,0,0,0,data scientist,CA,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$100 to $500 million (USD),43,0,35,1,0,1,0,1,0,data scientist,OTHER,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,43,1,10,1,0,0,1,1,0,data scientist,MA,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),43,0,9,1,0,0,1,0,1,data scientist,MD,0,0,1
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,107,0,5,1,0,0,0,1,0,data scientist,CA,0,1,1
+United States,1001 to 5000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,107,0,1,1,0,0,1,1,0,data scientist,DC,0,0,1
+United States,1 to 50 employees,Company - Private,Health Care,$1 to $5 million (USD),107,0,10,1,1,0,0,0,1,data scientist,CA,1,0,0
+United States,1 to 50 employees,Company - Private,Accounting & Legal,Less than $1 million (USD),107,0,1,1,0,0,0,0,0,data scientist,NY,0,1,1
+United States,51 to 200 employees,Company - Public,Business Services,$1 to $5 million (USD),107,0,8,1,1,0,0,0,0,analyst,VA,1,1,0
+United States,201 to 500 employees,Subsidiary or Business Segment,Business Services,$100 to $500 million (USD),107,0,30,1,1,0,0,1,0,data scientist,MA,0,1,1
+United States,10000+ employees,Company - Public,Retail,$10+ billion (USD),107,1,51,1,0,0,1,0,1,data scientist,CA,0,1,0
+United States,1 to 50 employees,Company - Private,Unknown,$1 to $5 million (USD),107,0,1,1,1,1,0,0,1,data scientist,DC,0,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,107,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,107,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,107,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,107,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,107,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,107,0,1,1,0,0,1,1,0,data scientist,CA,0,0,0
+United States,1 to 50 employees,Company - Private,Business Services,$10 to $25 million (USD),107,0,32,1,1,1,0,0,0,data scientist,TX,1,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),107,0,21,1,1,1,1,1,0,data scientist,WA,0,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),107,0,1,1,0,0,0,0,0,data scientist,IL,0,1,0
+United States,1 to 50 employees,Others,Unknown,Unknown / Non-Applicable,107,0,1,0,0,0,0,0,0,data scientist,VA,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),107,0,26,0,0,0,0,0,0,data scientist,IL,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),107,1,22,1,0,0,0,1,0,data scientist,CA,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),107,0,9,1,0,0,1,0,1,data scientist,MD,0,0,0
+Switzerland,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),271,0,124,1,1,1,1,0,1,data scientist,CA,0,1,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),271,0,107,1,0,1,0,0,0,data scientist,OTHER,0,1,1
+United States,201 to 500 employees,Company - Public,Business Services,Unknown / Non-Applicable,271,0,18,1,0,0,0,0,0,data scientist,OTHER,0,1,1
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,271,0,33,1,1,0,0,0,0,data scientist,NY,0,0,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),271,0,1,1,1,0,0,0,1,data scientist,VA,0,1,0
+United States,Unknown,Company - Private,Media,Less than $1 million (USD),271,0,1,1,1,1,1,1,0,data scientist,WA,0,1,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),271,0,1,1,0,1,1,0,0,data scientist,VA,1,1,1
+United States,501 to 1000 employees,Government,Unknown,Unknown / Non-Applicable,271,0,1,1,0,0,0,0,0,data scientist,TX,0,1,0
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$500 million to $1 billion (USD),271,0,73,1,1,0,0,0,0,computer scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Public,Aerospace & Defense,Unknown / Non-Applicable,271,0,10,0,1,0,0,1,0,data scientist,MD,0,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,271,1,8,1,0,0,0,0,0,data engineer,MA,0,0,0
+United States,51 to 200 employees,Company - Private,Consumer Services,$5 to $10 million (USD),271,0,1,1,0,1,1,1,0,data scientist,DC,1,1,1
+United States,51 to 200 employees,Company - Public,Information Technology,$10 to $25 million (USD),271,0,10,1,1,0,1,0,1,data scientist,DC,0,1,0
+United States,501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,271,0,8,0,1,0,0,0,0,manager,OTHER,0,0,0
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$500 million to $1 billion (USD),271,0,73,1,1,0,0,0,0,computer scientist,OH,0,0,0
+United States,Unknown,Company - Private,Unknown,Unknown / Non-Applicable,271,1,1,0,1,1,1,1,1,data scientist,NY,0,0,0
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,271,0,40,1,0,0,0,0,0,data scientist,DC,0,1,0
+United States,201 to 500 employees,Nonprofit Organization,Business Services,$100 to $500 million (USD),271,1,17,0,0,0,0,0,0,mle,WA,0,0,0
+United States,1001 to 5000 employees,Company - Public,Business Services,$1 to $2 billion (USD),271,0,44,1,1,0,0,0,0,data scientist,NY,1,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),271,0,8,1,1,0,0,0,0,data scientist,DC,1,1,1
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,89,0,4,1,0,1,1,1,0,data scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$25 to $50 million (USD),89,0,19,0,0,0,0,0,0,data scientist,DC,0,0,0
+United States,1 to 50 employees,Company - Private,Unknown,Unknown / Non-Applicable,89,0,1,1,1,0,0,0,0,data scientist,DC,1,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),89,0,19,1,1,0,0,0,0,data scientist,CA,1,1,1
+United States,501 to 1000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,89,1,11,1,1,0,0,1,0,data engineer,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$25 to $50 million (USD),89,0,34,0,1,0,0,0,0,data scientist,MD,0,0,0
+United States,10000+ employees,Company - Public,Information Technology,$10+ billion (USD),89,0,44,0,0,0,0,0,0,mle,CA,0,0,0
+United States,10000+ employees,Company - Public,Business Services,$1 to $2 billion (USD),89,0,54,0,0,0,0,0,0,data scientist,VA,0,0,0
+United States,201 to 500 employees,Company - Private,Travel & Tourism,Unknown / Non-Applicable,89,1,9,1,0,0,0,0,0,data scientist,OTHER,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),89,0,10,1,0,0,0,0,0,analyst,VA,0,0,0
+United States,201 to 500 employees,Company - Private,Finance,$100 to $500 million (USD),89,1,8,1,0,0,0,0,0,analyst,IL,0,1,0
+United States,1001 to 5000 employees,Company - Private,Information Technology,$50 to $100 million (USD),89,0,21,1,1,0,0,0,0,data scientist,CA,0,1,1
+United States,5001 to 10000 employees,Subsidiary or Business Segment,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,89,0,112,1,1,0,0,0,1,data scientist,VA,0,1,0
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$500 million to $1 billion (USD),89,1,73,1,1,0,0,0,0,computer scientist,TX,0,1,1
+United States,501 to 1000 employees,Company - Private,Information Technology,$25 to $50 million (USD),89,0,14,1,1,0,0,0,1,data scientist,MD,0,0,0
+United States,5001 to 10000 employees,Company - Private,Insurance,$10+ billion (USD),89,0,169,0,1,1,1,0,1,data engineer,MA,0,1,0
+United States,501 to 1000 employees,Others,Information Technology,$25 to $50 million (USD),89,0,1,0,0,0,0,0,0,data scientist,DC,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,89,0,8,1,1,0,0,0,1,data scientist,NY,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$10 to $25 million (USD),89,0,23,1,1,1,1,1,1,data scientist,VA,0,1,1
+United States,10000+ employees,Company - Public,Insurance,$10+ billion (USD),89,1,167,1,0,0,1,1,1,data engineer,OTHER,1,1,1
+United States,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),164,1,17,1,0,0,0,1,0,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,$25 to $50 million (USD),164,1,21,1,0,0,1,1,0,data scientist,TX,0,1,0
+United States,501 to 1000 employees,Company - Private,Information Technology,Unknown / Non-Applicable,164,1,11,1,1,1,1,0,0,data scientist,CA,0,0,0
+United States,1001 to 5000 employees,Subsidiary or Business Segment,Information Technology,Unknown / Non-Applicable,164,1,9,1,0,0,0,0,0,analyst,CA,1,1,0
+United States,1001 to 5000 employees,Company - Public,Information Technology,$100 to $500 million (USD),164,0,12,1,0,0,0,0,0,mle,OTHER,0,0,1
+United States,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),164,1,42,0,1,0,0,0,0,data scientist,MA,0,0,1
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,164,0,1,1,1,0,1,0,0,data scientist,CA,1,1,0
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,164,0,5,1,0,0,0,1,0,mle,CA,0,1,1
+United States,501 to 1000 employees,Company - Private,Insurance,$500 million to $1 billion (USD),164,1,48,1,0,0,0,0,0,data scientist,CA,0,1,1
+United States,51 to 200 employees,Nonprofit Organization,Business Services,$25 to $50 million (USD),164,0,24,1,0,0,0,0,0,analyst,NY,0,1,0
+United States,501 to 1000 employees,Company - Private,Business Services,Unknown / Non-Applicable,164,0,16,0,0,1,0,0,1,data scientist,VA,0,0,0
+United States,51 to 200 employees,Company - Private,Government,$25 to $50 million (USD),164,1,15,1,0,0,0,0,0,data engineer,VA,0,1,0
+United States,1001 to 5000 employees,Company - Private,Aerospace & Defense,$1 to $2 billion (USD),164,0,3,1,0,1,1,0,1,data scientist,VA,0,1,1
+United States,1001 to 5000 employees,Company - Private,Business Services,$500 million to $1 billion (USD),164,0,46,1,0,1,0,0,0,data scientist,IL,0,0,0
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),164,0,38,1,1,1,1,0,1,manager,CA,0,1,0
+United States,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,164,1,5,0,0,0,0,1,0,computer scientist,IL,0,0,0
+United States,1001 to 5000 employees,Company - Private,Manufacturing,$100 to $500 million (USD),164,1,44,1,0,0,1,0,0,data engineer,OTHER,1,1,0
+United States,51 to 200 employees,Company - Private,Finance,$100 to $500 million (USD),164,1,24,1,0,1,1,1,1,data engineer,OTHER,0,1,0
+United States,1 to 50 employees,Company - Private,Information Technology,Unknown / Non-Applicable,164,1,1,0,0,1,0,0,0,mle,NY,0,1,1
+Spain,Unknown,Company - Public,Unknown,Unknown / Non-Applicable,164,0,1,1,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,5001 to 10000 employees,Nonprofit Organization,Government,$1 to $2 billion (USD),164,0,62,1,1,1,1,0,1,data scientist,VA,1,0,1
+United States,10000+ employees,Company - Private,Manufacturing,$10+ billion (USD),148,0,109,1,0,0,1,1,0,data scientist,OTHER,0,0,1
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),148,1,17,1,0,0,0,1,1,data scientist,CA,0,1,0
+United States,501 to 1000 employees,Company - Public,Aerospace & Defense,$100 to $500 million (USD),148,1,49,1,1,0,0,1,1,mle,CA,0,0,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),148,0,1,1,0,0,0,0,0,data scientist,VA,0,0,1
+United States,201 to 500 employees,Company - Private,Aerospace & Defense,$100 to $500 million (USD),148,1,10,0,0,0,0,0,0,computer scientist,MA,0,0,1
+United States,501 to 1000 employees,Company - Private,Information Technology,$100 to $500 million (USD),148,0,8,1,1,0,0,0,0,analyst,VA,0,1,0
+United States,501 to 1000 employees,Others,Education,Unknown / Non-Applicable,148,1,1,1,0,0,0,1,0,data engineer,TX,0,0,1
+United States,10000+ employees,Others,Finance,Unknown / Non-Applicable,148,0,87,0,0,0,0,0,0,data engineer,VA,1,1,0
+United States,10000+ employees,Others,Finance,Unknown / Non-Applicable,148,0,87,0,0,0,1,0,0,analyst,VA,1,1,0
+United States,5001 to 10000 employees,Nonprofit Organization,Government,$1 to $2 billion (USD),148,1,62,1,1,1,1,1,1,data scientist,MA,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,148,0,4,0,0,0,1,1,0,mle,OTHER,0,0,1
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),148,1,28,1,0,0,0,0,0,data engineer,IL,0,1,1
+United States,1001 to 5000 employees,Company - Public,Health Care,$1 to $2 billion (USD),148,1,24,0,1,0,0,0,0,data scientist,CA,1,1,0
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,148,1,22,1,0,1,1,0,0,data engineer,NY,1,1,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),148,0,1,1,0,0,0,1,0,data engineer,VA,0,1,1
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),106,0,107,1,1,0,0,0,0,data scientist,MD,0,1,0
+United States,5001 to 10000 employees,Company - Public,Information Technology,$2 to $5 billion (USD),106,0,38,1,0,1,1,0,1,data scientist,CA,0,1,0
+United States,1001 to 5000 employees,Company - Private,"Construction, Repair & Maintenance",$100 to $500 million (USD),106,0,22,1,1,0,0,0,0,data scientist,OTHER,1,1,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),106,0,190,1,0,1,0,1,0,data scientist,OTHER,1,1,0
+United States,Unknown,Government,Government,Unknown / Non-Applicable,106,0,73,0,0,0,0,0,0,data scientist,DC,0,0,1
+United States,201 to 500 employees,Company - Private,Business Services,$50 to $100 million (USD),106,1,12,1,1,1,0,1,0,data scientist,IL,1,1,1
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),106,1,11,1,0,0,0,0,0,data scientist,OTHER,0,0,1
+United States,1 to 50 employees,Company - Private,Unknown,Unknown / Non-Applicable,106,0,1,1,1,0,0,0,0,data scientist,OH,0,1,0
+United States,10000+ employees,Company - Private,Health Care,Unknown / Non-Applicable,106,1,15,1,1,1,1,1,1,data scientist,OTHER,1,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$100 to $500 million (USD),106,0,35,1,0,1,0,1,0,data scientist,OTHER,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),106,0,9,1,0,0,1,0,1,data scientist,MD,0,0,1
+United States,1 to 50 employees,Company - Private,Health Care,$1 to $5 million (USD),106,0,10,1,1,0,0,0,1,data scientist,CA,1,0,0
+United States,1 to 50 employees,Company - Private,Accounting & Legal,Less than $1 million (USD),106,0,1,1,0,0,0,0,0,data scientist,NY,0,1,1
+United States,51 to 200 employees,Subsidiary or Business Segment,Information Technology,$100 to $500 million (USD),106,0,23,0,1,0,0,0,0,data scientist,DC,0,0,0
+United States,10000+ employees,Company - Private,Information Technology,$1 to $2 billion (USD),106,0,21,1,1,1,1,1,1,data scientist,OTHER,0,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),106,1,1,1,0,0,0,0,0,data scientist,TX,0,0,0
+United States,51 to 200 employees,Company - Private,Aerospace & Defense,$25 to $50 million (USD),106,1,35,0,0,0,0,0,0,data scientist,VA,0,0,0
+United States,1 to 50 employees,Company - Private,Unknown,$1 to $5 million (USD),106,0,1,1,1,1,0,0,1,data scientist,DC,0,1,0
+United States,5001 to 10000 employees,Company - Public,Business Services,$1 to $2 billion (USD),114,0,52,1,0,1,1,0,1,data scientist,VA,1,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,114,0,1,1,1,0,0,1,1,data scientist,OTHER,0,1,0
+United States,10000+ employees,Company - Private,Insurance,$10+ billion (USD),114,0,167,0,0,0,0,0,0,data scientist,MA,0,0,0
+United States,Unknown,Company - Private,Unknown,Unknown / Non-Applicable,114,0,1,0,1,0,0,0,0,data scientist,VA,0,0,0
+United States,1001 to 5000 employees,Subsidiary or Business Segment,Transportation & Logistics,$2 to $5 billion (USD),114,0,37,1,1,0,0,1,0,data scientist,TX,0,1,0
+United States,10000+ employees,Company - Private,Information Technology,$1 to $2 billion (USD),114,0,21,1,1,1,1,1,1,data scientist,OTHER,0,1,0
+United States,51 to 200 employees,Company - Private,Aerospace & Defense,Unknown / Non-Applicable,114,0,11,0,0,0,0,1,0,data scientist,VA,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),114,1,14,1,0,0,1,0,0,data scientist,WA,0,1,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$1 to $2 billion (USD),114,0,69,1,1,1,0,0,0,data scientist,OTHER,0,1,0
+United States,1 to 50 employees,Company - Private,Unknown,Less than $1 million (USD),114,0,1,1,0,0,0,0,0,data scientist,CA,0,1,1
+United States,501 to 1000 employees,Company - Private,Health Care,Unknown / Non-Applicable,114,1,7,0,1,1,1,1,0,data engineer,CA,1,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$50 to $100 million (USD),114,0,22,1,1,1,1,0,0,data scientist,MD,1,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,$10 to $25 million (USD),114,0,30,1,0,1,1,0,0,data scientist,VA,1,1,1
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,114,1,8,0,0,1,1,0,0,data scientist,VA,0,0,0
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$100 to $500 million (USD),114,0,24,1,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,1 to 50 employees,Company - Private,Business Services,$10 to $25 million (USD),114,0,32,1,1,1,0,0,0,data scientist,TX,1,1,0
+Canada,1001 to 5000 employees,Company - Private,Information Technology,$100 to $500 million (USD),114,0,20,1,1,0,1,0,1,data scientist,CA,0,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),114,0,26,0,0,0,0,0,0,data scientist,IL,0,0,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,114,0,16,1,1,0,0,1,0,data scientist,VA,0,0,0
+United States,10000+ employees,Company - Private,Manufacturing,$10+ billion (USD),123,0,109,1,0,0,1,0,0,data scientist,NY,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,$5 to $10 million (USD),123,0,1,1,1,1,1,1,0,data scientist,WA,0,1,0
+United States,5001 to 10000 employees,Company - Private,Business Services,Unknown / Non-Applicable,123,1,66,1,1,1,1,1,1,data scientist,IL,1,1,0
+United States,51 to 200 employees,Company - Private,Business Services,$25 to $50 million (USD),123,1,22,1,0,0,0,1,0,data scientist,CA,0,0,0
+United States,1 to 50 employees,Company - Private,Information Technology,$1 to $5 million (USD),123,0,9,1,0,0,1,0,1,data scientist,MD,0,0,0
+United States,1 to 50 employees,Others,Unknown,Unknown / Non-Applicable,123,0,1,0,0,0,0,0,0,data scientist,VA,0,1,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),123,0,1,1,1,0,0,0,1,data scientist,VA,0,1,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,123,0,21,1,0,1,1,0,0,data scientist,WA,0,0,1
+United States,1 to 50 employees,Company - Private,Business Services,Unknown / Non-Applicable,123,0,33,1,1,0,0,0,0,data scientist,NY,0,0,0
+United States,51 to 200 employees,Company - Private,Information Technology,Unknown / Non-Applicable,123,0,1,1,1,1,1,1,0,data scientist,IL,0,1,0
+United States,201 to 500 employees,Company - Private,Insurance,$100 to $500 million (USD),123,1,28,1,1,1,1,1,0,data engineer,OTHER,0,1,1
+United States,1001 to 5000 employees,Company - Private,Insurance,Unknown / Non-Applicable,123,1,46,1,0,0,0,0,0,data scientist,TX,0,0,0
+United States,10000+ employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),123,0,58,0,1,0,0,0,0,data scientist,VA,0,1,0
+United States,10000+ employees,Company - Public,Information Technology,$10+ billion (USD),123,0,44,1,0,0,0,0,1,mle,CA,0,0,0
+United States,5001 to 10000 employees,Company - Public,Aerospace & Defense,$2 to $5 billion (USD),123,0,1,1,0,1,1,0,0,data scientist,VA,1,1,1
+United States,1001 to 5000 employees,Nonprofit Organization,Business Services,$500 million to $1 billion (USD),123,0,73,1,1,0,0,0,0,computer scientist,OTHER,0,0,0
+United States,51 to 200 employees,Company - Private,Business Services,Unknown / Non-Applicable,123,0,12,1,0,0,0,0,0,data scientist,CA,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,Unknown / Non-Applicable,123,1,8,1,0,0,0,0,0,data engineer,MA,0,0,0
+United Kingdom,10000+ employees,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),123,0,107,1,0,1,1,1,0,data scientist,MD,0,1,1
+United States,51 to 200 employees,Company - Private,Business Services,$10 to $25 million (USD),136,1,11,0,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,5001 to 10000 employees,Company - Public,Telecommunications,$2 to $5 billion (USD),136,0,24,1,1,0,1,1,0,data scientist,CA,0,0,0
+United States,51 to 200 employees,Company - Public,Aerospace & Defense,Unknown / Non-Applicable,136,0,10,0,1,0,0,1,0,data scientist,MD,0,0,0
+United States,51 to 200 employees,Company - Private,Consumer Services,$5 to $10 million (USD),136,0,1,1,0,1,1,1,0,data scientist,DC,1,1,1
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,136,0,1,0,1,0,0,1,0,data scientist,VA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,136,0,1,1,1,1,1,1,1,data scientist,IL,1,1,0
+United States,51 to 200 employees,Company - Public,Information Technology,$10 to $25 million (USD),136,0,10,1,1,0,1,0,1,data scientist,DC,0,1,0
+United States,10000+ employees,Company - Public,Aerospace & Defense,Unknown / Non-Applicable,136,0,2,1,0,1,0,0,1,data scientist,MD,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,136,0,1,1,0,0,0,0,0,data scientist,WA,0,1,0
+United States,10000+ employees,Company - Public,Retail,Unknown / Non-Applicable,136,1,1,1,1,0,0,0,0,data scientist,OTHER,1,1,0
+United States,51 to 200 employees,Company - Private,Unknown,Unknown / Non-Applicable,136,0,1,0,0,0,0,0,0,data scientist,OTHER,0,0,0
+United States,501 to 1000 employees,Company - Private,Business Services,Unknown / Non-Applicable,136,0,16,1,0,1,1,0,1,data scientist,OTHER,0,1,0
+United States,1 to 50 employees,Company - Private,Unknown,Unknown / Non-Applicable,136,0,1,1,0,1,0,0,0,data scientist,VA,0,1,0
+United States,201 to 500 employees,Company - Private,Information Technology,$50 to $100 million (USD),136,1,15,1,1,0,0,0,0,data scientist,VA,0,1,1
+United States,1001 to 5000 employees,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),136,0,10,1,0,0,0,0,0,data scientist,MA,0,1,1
+United States,1001 to 5000 employees,Company - Private,Business Services,Unknown / Non-Applicable,136,1,31,1,1,1,0,0,1,data scientist,OTHER,1,1,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,136,0,1,0,0,0,0,0,0,data scientist,CA,0,0,0
+United States,Unknown,Others,Unknown,Unknown / Non-Applicable,136,0,1,1,1,1,0,0,0,data scientist,CA,1,1,0
+United States,1 to 50 employees,Company - Private,Business Services,$1 to $5 million (USD),136,0,1,1,0,1,1,0,1,data scientist,CA,0,1,0
+United States,1001 to 5000 employees,Company - Public,Business Services,$1 to $2 billion (USD),136,0,44,1,1,0,0,0,0,data scientist,NY,1,1,0
